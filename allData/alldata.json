@@ -1,0 +1,264 @@
+{
+  "cart": [
+    {
+      "qty": "1",
+      "id": 1,
+      "p_id": "114",
+      "user": "Ankit",
+      "byed": "0"
+    }
+  ],
+  "shoe": [
+    {
+      "id": 1,
+      "p_id": "111",
+      "imgsrc": "../images/shoeimg.jpeg",
+      "name": "Nike Jordan Break",
+      "type": "Men's Road Running Shoes",
+      "price": "2700 ",
+      "discountedprice": 3995,
+      "description": "Regular fit , Lace closure , Textile upper, Textile lining. To reduce our reliance on virgin materials, we make sure that our vegan alternatives also contain a minimum of 25% recycled content."
+    },
+    {
+      "id": 2,
+      "p_id": "112",
+      "imgsrc": "../images/shoeeimgg.jpeg",
+      "name": "Nike Air Force 1 '07 L",
+      "type": "Men's Shoe",
+      "price": "7700 ",
+      "discountedprice": 9895,
+      "description": "ICONIC DESIGN : For over 50 years, the adidas Superstar sneaker has been the go-to of sport and street legends, connecting creators across cultures."
+    },
+    {
+      "id": 3,
+      "p_id": "113",
+      "imgsrc": "../images/shoeimhhgg.jpeg",
+      "name": "Nike Metcon 8",
+      "type": "Men's Training Shoes",
+      "price": "4700 ",
+      "discountedprice": 5995,
+      "description": "DISTINCTIVE DETAILS :The instantly recognisable shell toe is complemented by three serrated stripes and adidas Originals accents."
+    },
+    {
+      "id": 4,
+      "p_id": "114",
+      "imgsrc": "../images/shoeeimages.jpeg",
+      "name": "Nike Air Force 1 React",
+      "type": "Men's Shoes",
+      "price": "3700 ",
+      "discountedprice": 4995,
+      "description": "QUALITY MATERIALS : Always in style, this classic silhouette features full-grain leather for enhanced durability and comfort."
+    },
+    {
+      "id": 5,
+      "p_id": "115",
+      "imgsrc": "../images/shoeimgee.jpeg",
+      "name": "Nike Zoom LeBron 3",
+      "type": "Men Shoes",
+      "price": "2700 ",
+      "discountedprice": 3995,
+      "description": "Lace closure ,Leather upper Iconic, leather shoes,Rubber outsole."
+    },
+    {
+      "id": 6,
+      "p_id": "116",
+      "imgsrc": "../images/shoeeimg.jpeg",
+      "name": "Monk Strap",
+      "type": "Men's Formal Shoe",
+      "price": "7700 ",
+      "discountedprice": 9895,
+      "description": "Regular fit , Lace closure , Textile upper, Textile lining. To reduce our reliance on virgin materials, we make sure that our vegan alternatives also contain a minimum of 25% recycled content."
+    },
+    {
+      "id": 7,
+      "p_id": "117",
+      "imgsrc": "../images/formalshoe.jpeg",
+      "name": "Nike Air Force 1 React",
+      "type": "Men's Shoes",
+      "price": "3700 ",
+      "discountedprice": 4995,
+      "description": "Regular fit , Lace closure , Textile upper, Textile lining. To reduce our reliance on virgin materials, we make sure that our vegan alternatives also contain a minimum of 25% recycled content."
+    },
+    {
+      "id": 8,
+      "p_id": "118",
+      "imgsrc": "../images/formalimge.jpeg",
+      "name": "WingTip",
+      "type": "Men's Formal Shoe",
+      "price": "4700 ",
+      "discountedprice": 5995,
+      "description": "Regular fit , Lace closure , Textile upper, Textile lining. To reduce our reliance on virgin materials, we make sure that our vegan alternatives also contain a minimum of 25% recycled content."
+    },
+    {
+      "id": 9,
+      "p_id": "222",
+      "imgsrc": "../images/shirt1.jpg",
+      "name": "Tigerwood Cool Bright Shirt",
+      "type": "Men's Polo T-Shirt",
+      "price": "2500 ",
+      "discountedprice": 5995,
+      "discription": "This basic t-shirt features a relaxed fit for the female shape. Made from 100% cotton, this t-shirt is both durable and soft - a great combination if you're looking for that casual wardrobe staple. Select a design from our marketplace or customize it and unleash your creativity!"
+    },
+    {
+      "id": 10,
+      "p_id": "223",
+      "imgsrc": "../images/shirt2.jpg",
+      "name": "Tigerwood Sparx Shirt",
+      "type": "Men's polo T-shirt",
+      "price": "4800 ",
+      "discountedprice": 5000,
+      "discription": " Navy blue and blue melange grey colour blocked waist length T-shirt, has a V-neck, short sleeves"
+    },
+    {
+      "id": 11,
+      "p_id": "224",
+      "imgsrc": "../images/shirt3.jpg",
+      "name": "Tigerwood Basic Series",
+      "type": "Round Neck Casual Shirt",
+      "price": "3000 ",
+      "discountedprice": 3100,
+      "discription": "Maroon printed T-shirt, has a round neck, short sleeves Manufacturer Info: KB TEX"
+    },
+    {
+      "id": 12,
+      "p_id": "225",
+      "imgsrc": "../images/shirt4.jpg",
+      "name": "Tigerwood Casual Winter Series",
+      "type": "Full Length Round Neck Shirt",
+      "price": "3500 ",
+      "discountedprice": 6000,
+      "discription": "Cream-coloured printed T-shirt, has a round neck, short sleeves"
+    },
+    {
+      "id": 13,
+      "p_id": "226",
+      "imgsrc": "../images/shirt5.png",
+      "name": "Tigerwood Party Wear",
+      "type": "Semiformal Shirt",
+      "price": "4000 ",
+      "discountedprice": 4200,
+      "discription": "Black printed T-shirt, has a round neck, short sleeves"
+    },
+    {
+      "id": 14,
+      "p_id": "227",
+      "imgsrc": "../images/shirt7.png",
+      "name": "TigerWood Summer Series",
+      "type": "T- Shirt",
+      "price": "3200 ",
+      "discountedprice": 5500,
+      "discription": "This basic t-shirt features a relaxed fit for the female shape. Made from 100% cotton, this t-shirt is both durable and soft - a great combination if you're looking for that casual wardrobe staple. Select a design from our marketplace or customize it and unleash your creativity!"
+    },
+    {
+      "id": 15,
+      "p_id": "228",
+      "imgsrc": "../images/shirt8.jpeg",
+      "name": "Tigerwood Minimalistic-Series ",
+      "type": "T-Shirt",
+      "price": "3100 ",
+      "discountedprice": 5000,
+      "discription": "With the HRX Men's Active T-shirt, you're in for a style treat. This t-shirt is cut to fit you perfectly and crafted from fabric that will keep you cool and dry throughout the day."
+    },
+    {
+      "id": 16,
+      "p_id": "229",
+      "imgsrc": "../images/shirt11.jpeg",
+      "name": "Tigerwood-Minimalistic-Series",
+      "type": "T-Shirt",
+      "price": "3200 ",
+      "discountedprice": 6000,
+      "discription": "White solid T-shirt, has a round neck, and short sleeves"
+    }
+  ],
+  "clothes": [
+    {
+      "id": 1,
+      "p_id": "222",
+      "imgsrc": "../images/shirt1.jpg",
+      "name": "Tigerwood Cool Bright Shirt",
+      "type": "Men's Polo T-Shirt",
+      "price": "2500 ",
+      "discountedprice": 5995,
+      "discription": "This basic t-shirt features a relaxed fit for the female shape. Made from 100% cotton, this t-shirt is both durable and soft - a great combination if you're looking for that casual wardrobe staple. Select a design from our marketplace or customize it and unleash your creativity!"
+    },
+    {
+      "id": 2,
+      "p_id": "223",
+      "imgsrc": "../images/shirt2.jpg",
+      "name": "Tigerwood Sparx Shirt",
+      "type": "Men's polo T-shirt",
+      "price": "4800 ",
+      "discountedprice": 5000,
+      "discription": " Navy blue and blue melange grey colour blocked waist length T-shirt, has a V-neck, short sleeves"
+    },
+    {
+      "id": 3,
+      "p_id": "224",
+      "imgsrc": "../images/shirt3.jpg",
+      "name": "Tigerwood Basic Series",
+      "type": "Round Neck Casual Shirt",
+      "price": "3000 ",
+      "discountedprice": 3100,
+      "discription": "Maroon printed T-shirt, has a round neck, short sleeves Manufacturer Info: KB TEX"
+    },
+    {
+      "id": 4,
+      "p_id": "225",
+      "imgsrc": "../images/shirt4.jpg",
+      "name": "Tigerwood Casual Winter Series",
+      "type": "Full Length Round Neck Shirt",
+      "price": "3500 ",
+      "discountedprice": 6000,
+      "discription": "Cream-coloured printed T-shirt, has a round neck, short sleeves"
+    },
+    {
+      "id": 5,
+      "p_id": "226",
+      "imgsrc": "../images/shirt5.png",
+      "name": "Tigerwood Party Wear",
+      "type": "Semiformal Shirt",
+      "price": "4000 ",
+      "discountedprice": 4200,
+      "discription": "Black printed T-shirt, has a round neck, short sleeves"
+    },
+    {
+      "id": 6,
+      "p_id": "227",
+      "imgsrc": "../images/shirt7.png",
+      "name": "TigerWood Summer Series",
+      "type": "T- Shirt",
+      "price": "3200 ",
+      "discountedprice": 5500,
+      "discription": "This basic t-shirt features a relaxed fit for the female shape. Made from 100% cotton, this t-shirt is both durable and soft - a great combination if you're looking for that casual wardrobe staple. Select a design from our marketplace or customize it and unleash your creativity!"
+    },
+    {
+      "id": 7,
+      "p_id": "228",
+      "imgsrc": "../images/shirt8.jpeg",
+      "name": "Tigerwood Minimalistic-Series ",
+      "type": "T-Shirt",
+      "price": "3100 ",
+      "discountedprice": 5000,
+      "discription": "With the HRX Men's Active T-shirt, you're in for a style treat. This t-shirt is cut to fit you perfectly and crafted from fabric that will keep you cool and dry throughout the day."
+    },
+    {
+      "id": 8,
+      "p_id": "229",
+      "imgsrc": "../images/shirt11.jpeg",
+      "name": "Tigerwood-Minimalistic-Series",
+      "type": "T-Shirt",
+      "price": "3200 ",
+      "discountedprice": 6000,
+      "discription": "White solid T-shirt, has a round neck, and short sleeves"
+    }
+  ],
+  "buy": [],
+  "user": [
+    {
+      "id": 1,
+      "name": "Ankit",
+      "email": "ankitchohan61@gmail.com",
+      "password": "123"
+    }
+  ]
+}

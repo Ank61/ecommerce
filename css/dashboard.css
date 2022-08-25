@@ -1,0 +1,55 @@
+.div1{
+    width: 1000px;
+    height: 350px;
+    background-color:rgb(249, 224, 192);
+    border-radius: 30px;
+    margin-left: 54px;
+
+}
+.div2{
+    width: 1000px;
+    height: 350px;
+    background-color: rgb(204, 246, 193);
+    border-radius: 30px;
+    margin-left: 54px;
+}
+.div3{
+    width: 1000px;
+    height: 350px;
+    background-color:rgb(241, 241, 159);
+    border-radius: 30px;
+    margin-left: 54px;
+}
+.banner1{
+    width:450px;
+    height:100px;
+    float:left;
+color:black;
+padding-top: 30px;
+padding-left:80px;
+
+
+}
+.banner2{
+    width:650px;
+    height:200px;
+    float:left;
+color:black;
+padding-top: 30px;
+padding-left:80px;
+
+
+}
+.bannerimg{
+    height: 340px; 
+    width: 620px; 
+    float:right ;
+    padding-left: 100px;
+}
+.button{
+    border-radius: 30px;
+    background-color: black;
+}
+.backgrounddiv{
+    background-color: white;
+}
